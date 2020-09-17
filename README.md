@@ -6,6 +6,10 @@ This is just a small collection of game assets I'll add to periodically.  It's a
 
 ## Low Poly
 
+###### Food
+###### Nature
+###### Plants
+###### Tools
 ###### Weapons
 
 # 2D
