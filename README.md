@@ -12,6 +12,8 @@ This is just a small collection of game assets I'll add to periodically.  It's a
 ###### Tools
 ###### Weapons
 
+> All LowPoly assets will be UV mapped to `textures/Palette/palette_low-poly.png`
+
 # 2D
 
 ###### Isometric
